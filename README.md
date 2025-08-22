@@ -6,7 +6,7 @@ A full-length web project. Created from my Materialize CSS Tutorial Series.
 
 You can clone or download this repository to your local machine using the link below:
 
-<https://github.com/collinsduzzy/Recipe.com>
+<https://github.com/coresystechng/Recipe.com>
 
 ### How To Use
 
@@ -31,7 +31,7 @@ Terminal (cmd recommended)
 
 ## Authors
 
-* **Collins Okoroafor** - *Project Lead* - [GitHub profile](https://github.com/collinsduzzy)
+* **Collins Okoroafor** - *Project Lead* - [GitHub profile](https://github.com/coresystechng)
 
 ## License
 
